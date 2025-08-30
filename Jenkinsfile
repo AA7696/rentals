@@ -10,6 +10,7 @@ pipeline {
             steps {
                 // Replace with your actual GitHub repo URL
                 git 'https://github.com/AA7696/rentals.git'
+                
             }
         }
 
