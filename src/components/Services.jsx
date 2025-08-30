@@ -73,7 +73,7 @@ return (
           </div>
           <div className="space-y-1">
             <div className="text-2xl font-bold text-black">1M+</div>
-            <div className="text-sm text-gray-500">Happy Customer</div>
+            <div className="text-sm text-gray-500">Happy Customers</div>
           </div>
           <div className="space-y-1">
             <div className="text-2xl font-bold text-black">3+</div>
