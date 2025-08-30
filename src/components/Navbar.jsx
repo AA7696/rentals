@@ -69,7 +69,7 @@ const handleGoogleLogin = async () => {
     <nav className="w-full  shadow-sm  px-4 sm:px-8 md:px-16 py-4 flex items-center justify-between">
       {/* Logo */}
       <div
-        className="text-2xl sm:text-3xl font-bold text-orange-400 cursor-pointer"
+        className="text-2xl sm:text-3xl font-bold text-green-500 cursor-pointer"
         onClick={() => navigate('/')}
       >
         Drivee
