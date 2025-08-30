@@ -9,7 +9,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Replace with your actual GitHub repo URL
-                git 'https://github.com/AA7696/rentals.git'
+                git branch: 'main', url: 'https://github.com/AA7696/rentals.git'
                 
             }
         }
