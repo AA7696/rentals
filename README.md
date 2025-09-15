@@ -7,14 +7,7 @@ Drivee is a modern and user-friendly vehicle rental platform where users can bro
 👉 [View Live](https://drivee-azure.vercel.app)
 
 ---
-## 📸 Screenshots
 
-
-![Login Page](https://raw.githubusercontent.com/AA7696/rentals/main/public/screenshots/Screenshot%202025-09-15%20233630.png)
-
-
-
-![Vehicle Listing](https://raw.githubusercontent.com/AA7696/rentals/main/public/screenshots/Screenshot%202025-09-15%20233654.png)
 
 
 ## ✨ Features
@@ -43,6 +36,17 @@ Drivee is a modern and user-friendly vehicle rental platform where users can bro
 |----------------|-----------------|-----------------|--------------------|----------------------------|
 | React.js       | Firebase SDK    | Firestore       | Firebase Auth      | Zustand, React Query       |
 | Tailwind CSS   | Docker, AWS, CI/CD Jenkins |                 | Firebase Storage   | React Router, Toast, Razorpay |
+
+---
+
+## 📸 Screenshots
+
+
+![Login Page](https://raw.githubusercontent.com/AA7696/rentals/main/public/screenshots/Screenshot%202025-09-15%20233630.png)
+
+
+
+![Vehicle Listing](https://raw.githubusercontent.com/AA7696/rentals/main/public/screenshots/Screenshot%202025-09-15%20233654.png)
 
 ---
 
