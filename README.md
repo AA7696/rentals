@@ -14,7 +14,7 @@ Drivee is a modern and user-friendly vehicle rental platform where users can bro
 
 
 
-![Vehicle Listing](./public/screenshots/Screenshot 2025-09-15 233654.png)
+![Vehicle Listing](https://raw.githubusercontent.com/AA7696/rentals/main/public/screenshots/Screenshot%202025-09-15%20233654.png)
 
 
 ## ✨ Features
